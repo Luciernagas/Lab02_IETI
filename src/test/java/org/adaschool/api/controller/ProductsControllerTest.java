@@ -58,8 +58,6 @@ public class ProductsControllerTest {
     public void testFindByIdNotExistingProduct() throws Exception {
         String id = "511";
         when(productsService.findById(id)).thenReturn(Optional.empty());
-
-
         mockMvc.perform(get(BASE_URL + id))
                 .andExpect(status().isNotFound())
                 .andExpect(result -> assertTrue(result.getResolvedException() instanceof ProductNotFoundException))
