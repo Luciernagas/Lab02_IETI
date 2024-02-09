@@ -46,4 +46,21 @@ Good code is about details. Follow each step carefully and make sure your code i
 
 🗣️ "I hear and I forget I see and I remember I do and I understand." Confucius
 
+## Swagger
+ ![image](https://github.com/Luciernagas/Lab02_IETI/assets/104604359/33d8c5dd-4be2-4d7b-8d1d-34223622354f)
+
+![image](https://github.com/Luciernagas/Lab02_IETI/assets/104604359/d63742bc-1076-4d87-bd17-60020ef4c78b)
+
+ 
+## Postman
+ ![image](https://github.com/Luciernagas/Lab02_IETI/assets/104604359/ae0bf6a4-174e-4c9f-b70a-371256c813ce)
+ 
+![image](https://github.com/Luciernagas/Lab02_IETI/assets/104604359/d7ebff0f-1b93-4b3f-9e57-19c2b7017912)
+
+![image](https://github.com/Luciernagas/Lab02_IETI/assets/104604359/cd7ae1fa-2db2-4eee-b971-96fb7638394d)
+
+![image](https://github.com/Luciernagas/Lab02_IETI/assets/104604359/a2a070e5-a25d-4c5b-ab2c-d32004a29de2)
+
+ 
+
 
